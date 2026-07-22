@@ -1,0 +1,10 @@
+{
+  "repo_name": "FlowerOS Official Repository",
+  "packages": {
+    "curl": {
+      "version": "1.0.0",
+      "description": "Native FlowerOS Curl Binary",
+      "url": "https://github.com/zaivoid/flower-repo/releases/download/v1.0.0/curl.tar.gz"
+    }
+  }
+}
